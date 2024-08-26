@@ -1,8 +1,8 @@
-CodeAlpha_Build_a_Calculator
+#CodeAlpha_Build_a_Calculator
 Overview
 This repository contains the source code for a web-based calculator application built as part of the CodeAlpha project. The calculator is designed to perform basic arithmetic operations, including addition, subtraction, multiplication, and division, with a user-friendly interface.
 
-Features
+#Features
 Clear Input (AC): Reset the calculator to start a new calculation.
 Delete Last Entry (DEL): Remove the last character from the current input.
 Basic Operations: Perform addition, subtraction, multiplication, and division.
@@ -28,7 +28,7 @@ Navigate to the Project Directory:
 cd CodeAlpha_Build_a_Calculator
 Open the index.html File: Open the index.html file in a web browser to use the calculator.
 
-How to Use
+#How to Use
 Enter numbers and operations using the buttons.
 Click = to evaluate the expression.
 Use AC to clear the input or DEL to delete the last character.
@@ -47,6 +47,6 @@ Create a Pull Request.
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Acknowledgements
+#Acknowledgements
 Icon: calculator.png is used as the favicon for the application.
 Font: Poppins from Google Fonts is used for a clean and modern look.
